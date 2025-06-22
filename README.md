@@ -5,7 +5,21 @@ Edit The Fresh.py And Add Ur Discord Bot Token
 
 Edit The stat.py And Add Ur Discord Bot Token    # this is roating status on bot
 
+you can change tokens for redeem in the token.json file and in the fresh.py just make sure they are the same and do
 
+/redeem "token" then it will send u a pm asking for a user pass
+/login to login
+
+
+COMMANDS:
+
+/redeem
+/login
+/logout
+/help
+/ping
+/tcpping
+/geoip
 
 
 to run the bot do screen python3 fresh.py for main tool  
